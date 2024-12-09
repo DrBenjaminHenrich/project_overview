@@ -69,11 +69,11 @@ Teaching Experience at Frankfurt School of Fiance
 
 
 ### Research Publikationen (Peer-Reviewed)
+- Abdel-Karim, Benjamin M. / Pfeuffer, Nicolas / Carl, K. Valerie / Hinz, Oliver (2023): "How AI-Based Systems Can Induce Reflections: The Case of AI-Augmented Diagnostic Work", Management Information Systems Quarterly (MISQ), 47(4), 1395-1424. doi.org/10.25300/MISQ/2022/16773
+
 - Grahl, Jörn / Rothlauf, Franz / Hinz, Oliver / Abdel-Karim, Benjamin / Mihale-Wilson, Cristina (2023): "How do Likes Influence Revenue? A Randomized Controlled Field Experiment", Journal of Business Research, 167, 114133.
 
 - Pfeuffer, Nicolas / Baum, Lorenz / Stammer, Wolfgang / Abdel-Karim, Benjamin M. / Schramowski, Patrick / Bucher, Andreas M. / Hügel, Christian / Rohde, Gernot / Kersting, Kristian / Hinz, Oliver (2023): “Explanatory Interactive Machine Learning: Establishing an Action Design Research Process for Machine Learning Projects”, Business & Information Systems Engineering 65, 677–701. doi.org/10.1007/s12599-023-00806-x
-
-- Abdel-Karim, Benjamin M. / Pfeuffer, Nicolas / Carl, K. Valerie / Hinz, Oliver (2023): "How AI-Based Systems Can Induce Reflections: The Case of AI-Augmented Diagnostic Work", Management Information Systems Quarterly (MISQ), 47(4), 1395-1424. doi.org/10.25300/MISQ/2022/16773
 
 - Keller, Katharina / Jöntgen, Hendrik / Abdel-Karim, Benjamin / Hinz, Oliver (2022): "User Cognition Antecedents of Smart Assistant Systems in Cars", IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2022.3216029, 24(1), 37-53.
 
