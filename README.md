@@ -32,52 +32,32 @@ As example, one of my projects focused on identifying forest fires using modern 
 In addition to teaching and mentoring, I actively contribute to shaping the future of science and technology by serving on various advisory boards. My focus lies in fostering impactful innovation and guiding organizations on the strategic integration of emerging technologies.
 
 
-### Transcript of Records Teaching Experience
+### Transcript of Records - Teaching Experience
 Teaching Experience at Frankfurt School of Fiance
 2024: Elective in Advanced Analytics in Practice - How to Leverage Customer Data in Financial Institutions, for Prof. Dr. Jochen Schlapp,  $\approx$ 120 B.Sc. participants.
 
 [Teaching Experience at University of Applied Sciences Heilbronn](https://www.hs-heilbronn.de/en)
-2021 - 2022: Lecture in Business Data Analysis, for Prof. Dr. Carsten Lanquillon, $\approx$ 30 B.Sc. participants.
-2020 - 2022: Lecture in Data Science Management, for Prof. Dr. Helmut Beckmann, $\approx$ 20 M.Sc. participants.
+- 2021 - 2022: Lecture in Business Data Analysis, for Prof. Dr. Carsten Lanquillon, $\approx$ 30 B.Sc. participants.
+- 2020 - 2022: Lecture in Data Science Management, for Prof. Dr. Helmut Beckmann, $\approx$ 20 M.Sc. participants.
 
 [Teaching Experience at University of Applied Sciences Ansbach](https://www.hs-ansbach.de/startseite/)
-2021 - 2022: Lecture in Applied Machine Learning, Prof. Dr. Sigurd Schacht, $\approx$ 30 B.Sc. participants.
+- 2021 - 2022: Lecture in Applied Machine Learning, Prof. Dr. Sigurd Schacht, $\approx$ 30 B.Sc. participants.
 
-Teaching Experience at Goethe University Frankfurt
-2019 - 2024: Lecture in Python for Data Science, for the e-finance Lab e.V. (Frankfurt am Main). 
+[Teaching Experience at Goethe University Frankfurt](https://www.wiim.uni-frankfurt.de/startseite/)
+- 2019 - 2024: Lecture in Python for Data Science, for the e-finance Lab e.V. (Frankfurt am Main). 
+- 2019 - 2024: Lecture in Introduction to Python for the e-finance Lab e.V. (Frankfurt am Main). 
+- 2019 - 2021: Lecture\Exercise in Social Network Analysis, for Prof. Hinz, $\approx$ 280 M.Sc. participants. 
+- 2018 - 2021: Seminar in Air Traffic, with Dr. Zieschang $\approx$ 20 M.Sc. participants, Best Seminar - Teaching Award 1$^{st$ place (2020). 
+- 2018 - 2021: Tutorium in Information Systems II, for Prof. Hinz, $\approx$ 180-220 B.Sc. participants. 
 
-2019 - 2024: Lecture in Introduction to Python for the e-finance Lab e.V. (Frankfurt am Main). 
+[Teaching Experience at University Bremen](https://www.uni-bremen.de/en/)
+- 2015 - 2016: Mentorium in Scientific Research Methods, for Prof. Varmaz, $\approx$ 20 M.Sc. participants. 
+- 2016 Spring:  Mentorium in Scientific Research Methods, for Prof. Varmaz, $\approx$ 20 M.Sc. participants. 
+- 2015 Fall: Tutorium in Finance, for Prof. Fieberg, $\approx$ 320 B.Sc. participants. 
+- 2014 - 2015: Tutorium Corporate Finance, for Prof. Varmaz, $\approx$ 30 B.Sc. participants.  
 
-2019 - 2021: Lecture\/Exercise in Social Network Analysis, for Prof. Hinz, $\approx$ 280 M.Sc. participants. 
-
-2018 - 2021: Seminar in Air Traffic, with Dr. Zieschang $\approx$ 20 M.Sc. participants, Best Seminar - Teaching Award 1$^{st$ place (2020). 
-
-2018 - 2021: Tutorium in Information Systems II, for Prof. Hinz, $\approx$ 180-220 B.Sc. participants. 
-
-
-\section{Speaker Requests
-
-2021: Associate Editor for International Conference on Information Systems (ICIS) 2021. 
-
-2020: Speaker for Management and new Technology, for Capgemini SA, $\approx$ 10 M.Sc. participants. 
-
-2018 - 2024: Lecture/ Challenge Owner: Machine Learning \& Deep Learning, Data Products, and Data Science for Management, for Tomorrows University $\approx$ 15 M.Sc. participants. 
-
-2018: Speaker for Artificial Neuronal Networks Using Social Network for Forcasting (Frankfurt am Main). 
-
-
-Teaching Experience at University Bremen 
-2015 - 2016: Mentorium in Scientific Research Methods, for Prof. Varmaz, $\approx$ 20 M.Sc. participants. 
-
-2016 Spring:  Mentorium in Scientific Research Methods, for Prof. Varmaz, $\approx$ 20 M.Sc. participants. 
-
-2015 Fall: Tutorium in Finance, for Prof. Fieberg, $\approx$ 320 B.Sc. participants. 
-
-2014 - 2015: Tutorium Corporate Finance, for Prof. Varmaz, $\approx$ 30 B.Sc. participants.  
-
-
-
-
-
-
-
+### Transcript of Records - Speaker Requests
+- 2021: Associate Editor for International Conference on Information Systems (ICIS) 2021. 
+- 2020: Speaker for Management and new Technology, for Capgemini SA, $\approx$ 10 M.Sc. participants. 
+- 2018 - 2024: Lecture\ Challenge Owner: Machine Learning \& Deep Learning, Data Products, and Data Science for Management, for Tomorrows University $\approx$ 15 M.Sc. participants. 
+- 2018: Speaker for Artificial Neuronal Networks Using Social Network for Forcasting (Frankfurt am Main). 
