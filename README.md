@@ -13,6 +13,10 @@ Quick and hassle-free registration:
 - The platform is built with a focus on user-friendliness, efficiency, and scalability, making it ideal for businesses looking to modernize their check-in processes.
 
 ****
+
+![alt text](src/side_hustle.png "side_hustle.png")
+
+
 - 2024 MIMIR - Making Cloud GPU Computing Affordable & Accessible To All:  I concluded a startup in the area of graphic power architecture and customer journey with a focus on interface design, aiming to offer GPU computing power via a marketplace in the B2B sector. Unfortunately, the founding team arround Lucas Schmitt, decided to cease operations due to challenges in the compensation landscape within the GPU market.
 
 - 2024 RetireDoc: This startup offered a simple, device-independent documentation solution with a modern design.'' Crazy Idea: What if we could handle documentation using state-of-the-art technology, such as Artificial Intelligence, in a user-friendly way? Couldn’t we reduce the workload and costs? A data-driven approach!''. It provided a standardized platform for storing and managing documents, ensuring state-of-the-art data encryption for security. The data servers were located in Germany, guaranteeing compliance with local regulations. The service ensured reliability through redundancy, making it a trustworthy option for users. With a paper-free approach, it supported sustainable documentation practices. Additionally, the platform was cost-effective compared to other providers on the market and utilized in-house AI for enhanced efficiency. Users could migrate their current documentation—whether paper-based or digital—quickly and at no cost. The tech stack was based on Python, PyTorch, Flask, SQL, Amazon AWS, and Docker. Further development of the project was canceled due to the need to comply with medical regulatory requirements.
@@ -29,9 +33,7 @@ Quick and hassle-free registration:
 
 ****
 
-### Transcript of Records - Side Hustle
-
-## Advancing Data Science and Coding: My Contributions Through Published Works
+### Transcript of Records: Advancing Data Science and Coding as My Contributions Through Published Works
 I' am the author of several published works focusing on data, the evolving data landscape, and coding methodologies. My publications delve into topics ranging from data democratization and access, to the application of advanced coding techniques in real-world scenarios. These books, available through platforms such as Springer Link, aim to bridge the gap between theory and practical implementation, providing valuable insights for both researchers and practitioners. Through these contributions, I strive to advance the field of data science and foster innovation within the broader data and technology ecosystem.
 
 ![alt text](src/books.jpeg "Books")
