@@ -13,6 +13,7 @@ Quick and hassle-free registration:
 - The platform is built with a focus on user-friendliness, efficiency, and scalability, making it ideal for businesses looking to modernize their check-in processes.
 
 ****
+- 2024 MIMIR - Making Cloud GPU Computing Affordable & Accessible To All:  I concluded a startup in the area of graphic power architecture and customer journey with a focus on interface design, aiming to offer GPU computing power via a marketplace in the B2B sector. Unfortunately, the founding team decided to cease operations due to challenges in the compensation landscape within the GPU market.
 
 - 2024 RetireDoc: This startup offered a simple, device-independent documentation solution with a modern design. It provided a standardized platform for storing and managing documents, ensuring state-of-the-art data encryption for security. The data servers were located in Germany, guaranteeing compliance with local regulations. The service ensured reliability through redundancy, making it a trustworthy option for users. With a paper-free approach, it supported sustainable documentation practices. Additionally, the platform was cost-effective compared to other providers on the market and utilized in-house AI for enhanced efficiency. Users could migrate their current documentation—whether paper-based or digital—quickly and at no cost. The tech stack was based on Python, PyTorch, Flask, SQL, Amazon AWS, and Docker. Further development of the project was canceled due to the need to comply with medical regulatory requirements.
   
