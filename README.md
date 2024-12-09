@@ -2,7 +2,7 @@
 This GitHub page serves as a historical archive of my side hustle, reflecting my passion and the motivation behind these projects. It provides an overview of my work and the driving forces that inspire me.
 
 
-## Smart-Check In: Automated Customer Check-In Platform (Sommer 2024)
+### Flag Ship Project - Smart-Check In: Automated Customer Check-In Platform (Sommer 2024)
 I developed an automated solution for a customer check-in platform that streamlines the registration process. Using a mobile phone to scan a QR code, customers can complete their check-in seamlessly in just a few steps. This solution ensures:
 
 ![alt text](src/smart_check_in.png "smart_checkin")
@@ -11,8 +11,10 @@ Quick and hassle-free registration:
 - Optimized customer experience
 - Integration-ready design for diverse industries
 - The platform is built with a focus on user-friendliness, efficiency, and scalability, making it ideal for businesses looking to modernize their check-in processes.
+
 ****
 
+### Transcript of Records - Side Hustle
 
 ## Advancing Data Science and Coding: My Contributions Through Published Works
 I' am the author of several published works focusing on data, the evolving data landscape, and coding methodologies. My publications delve into topics ranging from data democratization and access, to the application of advanced coding techniques in real-world scenarios. These books, available through platforms such as Springer Link, aim to bridge the gap between theory and practical implementation, providing valuable insights for both researchers and practitioners. Through these contributions, I strive to advance the field of data science and foster innovation within the broader data and technology ecosystem.
@@ -26,6 +28,9 @@ I' am the author of several published works focusing on data, the evolving data 
 
 ## Empowering Innovation Through Knowledge Sharing and Technology Leadership
 As a passionate advocate for knowledge sharing, I have served as a guest professor, lecturer, and mentor for several universities and startup incubators. My mission is to inspire the next generation of innovators by sharing insights on Data Science, Software Engineering, and leveraging technology to extract actionable knowledge from data.
+
+![alt text](src/teaching.png"Doing_Teaching")
+
 
 As example, one of my projects focused on identifying forest fires using modern technologies, specifically through machine learning models in the area of image recognition. This work leveraged a robust dataset of satellite images, enabling the detection and prediction of forest fires with improved accuracy and speed. By applying advanced image recognition techniques, the project contributed to enhancing early warning systems and supporting efforts to mitigate environmental and economic damage caused by wildfires.
 
@@ -56,7 +61,7 @@ Teaching Experience at Frankfurt School of Fiance
 - 2015 Fall: Tutorium in Finance, for Prof. Fieberg, $\approx$ 320 B.Sc. participants. 
 - 2014 - 2015: Tutorium Corporate Finance, for Prof. Varmaz, $\approx$ 30 B.Sc. participants.  
 
-### Transcript of Records - Speaker Requests
+### Transcript of Records - Speaker Requests/ Mentor Request/ Reviewer Request
 - 2021: Associate Editor for International Conference on Information Systems (ICIS) 2021. 
 - 2020: Speaker for Management and new Technology, for Capgemini SA, $\approx$ 10 M.Sc. participants. 
 - 2018 - 2024: Lecture\ Challenge Owner: Machine Learning \& Deep Learning, Data Products, and Data Science for Management, for Tomorrows University $\approx$ 15 M.Sc. participants. 
