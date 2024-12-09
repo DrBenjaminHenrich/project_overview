@@ -1,6 +1,7 @@
 # Project and Side Hustle Overview
 This GitHub page serves as a historical archive of my side hustle, reflecting my passion and the motivation behind these projects. It provides an overview of my work and the driving forces that inspire me.
 
+****
 
 - 2025 Smart-Check In  Automated Customer Check-In Platform (Sommer 2024): I developed an automated solution for a customer check-in platform that streamlines the registration process.
 ![alt text](src/smart_check_in.png "smart_checkin") Using a mobile phone to scan a QR code, customers can complete their check-in seamlessly in just a few steps. This solution ensures: Quick and hassle-free registration; optimized customer experience; integration E2E analysis. The platform is built with a focus on user-friendliness, efficiency, and scalability, making it ideal for businesses looking to modernize their check-in processes.
@@ -21,9 +22,9 @@ This GitHub page serves as a historical archive of my side hustle, reflecting my
 
 - 2020 - 2021 ePitches: At an early-stage startup, the goal was to optimize the financing process using a video-based platform. Startups were encouraged to use a pitch format to introduce themselves. The project utilized Amazon AWS, Python, Docker, and SQL but was ultimately discontinued due to a lack of demand.
 
-- 2020 Tech Hippo is a learning platform based on different services. The goal of this side hustle was to develop an Apple Store app. To achieve this, a client-server architecture was created to connect the app via API to the server and provide services through a user interface with an enhanced experience. Various technologies were used, including Apple Xcode, Python, and SQL. The application was sold.
+- 2020 Tech Hippo: Tech Hippo is a learning platform based on different services. The goal of this side hustle was to develop an Apple Store app. To achieve this, a client-server architecture was created to connect the app via API to the server and provide services through a user interface with an enhanced experience. Various technologies were used, including Apple Xcode, Python, and SQL. The application was sold.
 
-- 2020 We launched a project called Cross Finance, aimed at helping medical professionals finance their equipment. The concept was to provide an easy-to-use platform for requesting loans. Unfortunately, the project was not continued due to the lack of a banking license.
+- 2020 Cross Finance: We launched a project called Cross Finance, aimed at helping medical professionals finance their equipment. The concept was to provide an easy-to-use platform for requesting loans. Unfortunately, the project was not continued due to the lack of a banking license.
 
 ****
 
