@@ -3,7 +3,7 @@ This GitHub page serves as a historical archive of my side hustle, reflecting my
 
 ****
 
-- 2024 Smart-Check In:I developed an automated solution for a customer check-in platform that streamlines the registration process.
+- 2024 Smart-Check In: I developed an automated solution for a customer check-in platform that streamlines the registration process.
 ![alt text](src/smart_check_in.png "smart_checkin") Using a mobile phone to scan a QR code, customers can complete their check-in seamlessly in just a few steps. This solution ensures: Quick and hassle-free registration; optimized customer experience; integration E2E analysis. The platform is built with a focus on user-friendliness, efficiency, and scalability, making it ideal for businesses looking to modernize their check-in processes.
 
 
@@ -54,11 +54,14 @@ In addition to teaching and mentoring, I actively contribute to shaping the futu
 - 2024 - now: Elective in Advanced Analytics in Practice - How to Leverage Customer Data in Financial Institutions, for Prof. Dr. Jochen Schlapp,≈ 120 B.Sc. participants.
 
 [Tomorrow University](https://www.tomorrow.university)
-- 2021 - now: Challenge Machine Learning and Deep Learning This challenge has been developed to teach the handling and processing of satellite image data, empowering participants to leverage state-of-the-art technologies. The goal is to use these advanced tools to contribute to a sustainable world by enabling better decision-making and fostering innovative solutions to environmental and societal challenges.
+- 2021 - now: Challenge Machine Learning and Deep Learning This challenge has been developed to teach the handling and processing of satellite image data, empowering participants to leverage state-of-the-art technologies. The goal is to use these advanced tools to contribute to a sustainable world by enabling better decision-making and fostering innovative solutions to environmental and societal challenges., ≈ 10 professionals participants.
 
-- 2021 - 2023: Applied Data Science, enture into the depths of raw datasets, where you will uncover hidden truths through DataFrames, structured like ancient tomes. Explore the mystique of data types and learn to pre-process and cleanse the data, purging impurities and filling missing gaps. Delve into the shadows to cast away errors, transforming the data into a pure, meaningful form. In the final challenge, summon your skills to import, identify missing values, and handle data types, revealing the secrets of the dataset.
+- 2022: Data Science for Leaders with KfW, This course, originally a joint venture with KfW Bank, focused on finding the optimal distribution of Electric Vehicle (EV) charging stations across Germany. I provided datasets and models to help students apply machine learning methods and gain deeper insights into this real-world challenge. ≈ 45 professionals participants.
 
-- 2021 - 2023: Data Products, we explored different types of data products, such as raw data, derived data, algorithms, decision support tools, and automated decision-making systems. We got intouch with APIs, dashboards, and web interfaces. The course also covered the key benefits of different business models, with the overall goal of driving user retention and boosting revenue. 
+- 2021 - 2023: Data Products, we explored different types of data products, such as raw data, derived data, algorithms, decision support tools, and automated decision-making systems. We got intouch with APIs, dashboards, and web interfaces. The course also covered the key benefits of different business models, with the overall goal of driving user retention and boosting revenue., ≈ 20 professional participants.
+
+- 2021 - 2023: Applied Data Science, enture into the depths of raw datasets, where you will uncover hidden truths through DataFrames, structured like ancient tomes. Explore the mystique of data types and learn to pre-process and cleanse the data, purging impurities and filling missing gaps. Delve into the shadows to cast away errors, transforming the data into a pure, meaningful form. In the final challenge, summon your skills to import, identify missing values, and handle data types, revealing the secrets of the dataset., ≈ 30 professionals participants.
+
 
 [Teaching Experience at University of Applied Sciences Heilbronn](https://www.hs-heilbronn.de/en)
 - 2021 - 2022: Lecture in Business Data Analysis, for Prof. Dr. Carsten Lanquillon, ≈ 30 B.Sc. participants.
