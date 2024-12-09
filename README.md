@@ -25,7 +25,7 @@ I' am the author of several published works focusing on data, the evolving data 
 
 [Abdel-Karim, B. M., (2022). Data Science: Best Practices mit Python. B. M. Abdel-Karim (Ed.). Springer Vieweg.](https://link.springer.com/book/10.1007/978-3-658-33460-4)
 
-[Varmaz, A., Poddig, T., Fieberg, C., Abdel-Karim, B. M. MATLAB für Studierende und Professionals der Sozial- und Wirtschaftswissenschaften](https://www.amazon.de/MATLAB-Studierende-Professionals-Sozial-Wirtschaftswissenschaften/dp/3752630167)
+[Varmaz, A., Poddig, T., Fieberg, C., Abdel-Karim, B. M., (2020). MATLAB für Studierende und Professionals der Sozial- und Wirtschaftswissenschaften](https://www.amazon.de/MATLAB-Studierende-Professionals-Sozial-Wirtschaftswissenschaften/dp/3752630167)
 
 ## Empowering Innovation Through Knowledge Sharing and Technology Leadership
 As a passionate advocate for knowledge sharing, I have served as a guest professor, lecturer, and mentor for several universities and startup incubators. My mission is to inspire the next generation of innovators by sharing insights on Data Science, Software Engineering, and leveraging technology to extract actionable knowledge from data.
