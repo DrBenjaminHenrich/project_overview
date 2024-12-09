@@ -1,14 +1,12 @@
-# Project and Side Hustle Overview
+# Side Hustle Activites 
 This GitHub page serves as a historical archive of my side hustle, reflecting my passion and the motivation behind these projects. It provides an overview of my work and the driving forces that inspire me.
 
-****
-
+## Side Hustle - Do Your Own Thing
 - 2024 Smart-Check In: I developed an automated solution for a customer check-in platform that streamlines the registration process.
 ![alt text](src/smart_check_in.png "smart_checkin") Using a mobile phone to scan a QR code, customers can complete their check-in seamlessly in just a few steps. This solution ensures: Quick and hassle-free registration; optimized customer experience; integration E2E analysis. The platform is built with a focus on user-friendliness, efficiency, and scalability, making it ideal for businesses looking to modernize their check-in processes.
 
 
 ****
-
 ![alt text](src/side_hustle.png "side_hustle.png")
 
 
