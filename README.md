@@ -22,3 +22,9 @@ I' am the author of several published works focusing on data, the evolving data 
 [Abdel-Karim, B. M., & Kollmer, F. X. (Eds.). (2022). Sustainable finance: Herausforderungen und technologische Lösungen für Banken und Finanzdienstleister. Springer Fachmedien Wiesbaden GmbH.](https://link.springer.com/book/10.1007/978-3-658-36389-5)
 
 [Abdel-Karim, B. M., (2022). Data Science: Best Practices mit Python. B. M. Abdel-Karim (Ed.). Springer Vieweg.](https://link.springer.com/book/10.1007/978-3-658-33460-4)
+
+
+## Empowering Innovation Through Knowledge Sharing and Technology Leadership
+As a passionate advocate for knowledge sharing, I have served as a guest professor, lecturer, and mentor for several universities and startup incubators. My mission is to inspire the next generation of innovators by sharing insights on Data Science, Software Engineering, and leveraging technology to extract actionable knowledge from data.
+
+In addition to teaching and mentoring, I actively contribute to shaping the future of science and technology by serving on various advisory boards. My focus lies in fostering impactful innovation and guiding organizations on the strategic integration of emerging technologies.
