@@ -25,6 +25,8 @@ Quick and hassle-free registration:
 
 - 2020 Tech Hippo is a learning platform based on different services. The goal of this side hustle was to develop an Apple Store app. To achieve this, a client-server architecture was created to connect the app via API to the server and provide services through a user interface with an enhanced experience. Various technologies were used, including Apple Xcode, Python, and SQL. The application was sold.
 
+- 2020 We launched a project called Cross Finance, aimed at helping medical professionals finance their equipment. The concept was to provide an easy-to-use platform for requesting loans. Unfortunately, the project was not continued due to the lack of a banking license.
+
 ****
 
 ### Transcript of Records - Side Hustle
