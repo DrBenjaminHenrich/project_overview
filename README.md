@@ -21,7 +21,7 @@ Quick and hassle-free registration:
 
 - 2022 - Tomorrow's Therapy: A platform that was meant to provide all services, similar to Booking.com, for booking medical appointments. This project was not sustainable due to high server costs. The tech stack included Python Flask, HTML, JavaScript, and other web technologies.
 
-- 2020 - 2021 ePitches: At an early-stage startup, the goal was to optimize the job application process using a video-based platform. Applicants were encouraged to use a pitch format to introduce themselves. The project utilized Amazon AWS, Python, Docker, and SQL but was ultimately discontinued due to a lack of demand.
+- 2020 - 2021 ePitches: At an early-stage startup, the goal was to optimize the financing process using a video-based platform. Startups were encouraged to use a pitch format to introduce themselves. The project utilized Amazon AWS, Python, Docker, and SQL but was ultimately discontinued due to a lack of demand.
 
 - 2020 Tech Hippo is a learning platform based on different services. The goal of this side hustle was to develop an Apple Store app. To achieve this, a client-server architecture was created to connect the app via API to the server and provide services through a user interface with an enhanced experience. Various technologies were used, including Apple Xcode, Python, and SQL. The application was sold.
 
