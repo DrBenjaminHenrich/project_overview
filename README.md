@@ -29,7 +29,7 @@ I' am the author of several published works focusing on data, the evolving data 
 ## Empowering Innovation Through Knowledge Sharing and Technology Leadership
 As a passionate advocate for knowledge sharing, I have served as a guest professor, lecturer, and mentor for several universities and startup incubators. My mission is to inspire the next generation of innovators by sharing insights on Data Science, Software Engineering, and leveraging technology to extract actionable knowledge from data.
 
-![alt text](src/teaching.png"Doing_Teaching")
+![alt text](src/teaching.png "Teaching")
 
 
 As example, one of my projects focused on identifying forest fires using modern technologies, specifically through machine learning models in the area of image recognition. This work leveraged a robust dataset of satellite images, enabling the detection and prediction of forest fires with improved accuracy and speed. By applying advanced image recognition techniques, the project contributed to enhancing early warning systems and supporting efforts to mitigate environmental and economic damage caused by wildfires.
