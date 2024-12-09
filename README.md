@@ -25,6 +25,7 @@ I' am the author of several published works focusing on data, the evolving data 
 
 [Abdel-Karim, B. M., (2022). Data Science: Best Practices mit Python. B. M. Abdel-Karim (Ed.). Springer Vieweg.](https://link.springer.com/book/10.1007/978-3-658-33460-4)
 
+[Varmaz, A., Poddig, T., Fieberg, C., Abdel-Karim, B. M. MATLAB für Studierende und Professionals der Sozial- und Wirtschaftswissenschaften](https://www.amazon.de/MATLAB-Studierende-Professionals-Sozial-Wirtschaftswissenschaften/dp/3752630167)
 
 ## Empowering Innovation Through Knowledge Sharing and Technology Leadership
 As a passionate advocate for knowledge sharing, I have served as a guest professor, lecturer, and mentor for several universities and startup incubators. My mission is to inspire the next generation of innovators by sharing insights on Data Science, Software Engineering, and leveraging technology to extract actionable knowledge from data.
@@ -64,4 +65,33 @@ Teaching Experience at Frankfurt School of Fiance
 - 2021: Associate Editor for International Conference on Information Systems (ICIS) 2021. 
 - 2020: Speaker for Management and new Technology, for Capgemini SA, $\approx$ 10 M.Sc. participants. 
 - 2018 - 2024: Lecture\ Challenge Owner: Machine Learning \& Deep Learning, Data Products, and Data Science for Management, for Tomorrows University $\approx$ 15 M.Sc. participants. 
-- 2018: Speaker for Artificial Neuronal Networks Using Social Network for Forcasting (Frankfurt am Main). 
+- 2018: Speaker for Artificial Neuronal Networks Using Social Network for Forcasting (Frankfurt am Main).
+
+
+### Research Publikationen (Peer-Reviewed)
+- Grahl, Jörn / Rothlauf, Franz / Hinz, Oliver / Abdel-Karim, Benjamin / Mihale-Wilson, Cristina (2023): "How do Likes Influence Revenue? A Randomized Controlled Field Experiment", Journal of Business Research, 167, 114133.
+
+- Pfeuffer, Nicolas / Baum, Lorenz / Stammer, Wolfgang / Abdel-Karim, Benjamin M. / Schramowski, Patrick / Bucher, Andreas M. / Hügel, Christian / Rohde, Gernot / Kersting, Kristian / Hinz, Oliver (2023): “Explanatory Interactive Machine Learning: Establishing an Action Design Research Process for Machine Learning Projects”, Business & Information Systems Engineering 65, 677–701. doi.org/10.1007/s12599-023-00806-x
+
+- Abdel-Karim, Benjamin M. / Pfeuffer, Nicolas / Carl, K. Valerie / Hinz, Oliver (2023): "How AI-Based Systems Can Induce Reflections: The Case of AI-Augmented Diagnostic Work", Management Information Systems Quarterly (MISQ), 47(4), 1395-1424. doi.org/10.25300/MISQ/2022/16773
+
+- Keller, Katharina / Jöntgen, Hendrik / Abdel-Karim, Benjamin / Hinz, Oliver (2022): "User Cognition Antecedents of Smart Assistant Systems in Cars", IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2022.3216029, 24(1), 37-53.
+
+- Kremer, Patrick / Felka, Patrick / Abdel-Karim, Benjamin / Kim, Ju-Young / Hinz, Oliver (2021): “Emotions Don’t Lie: Introducing an Artificial Intelligence Tool to Measure Ad Effectiveness”, European Marketing Academy Conference (EMAC), Madrid.
+
+- Abdel-Karim, Benjamin M. / Benlian, Alexander / Hinz, Oliver (2021): "Predictive Value of Data From Virtual Investment Community", Machine Learning and Knowledge Extraction, 3 (1), 1-13.
+
+- Hinz, Oliver / Pfeuffer, Nicolas / Stammer, Wolfgang / Schramowski, Patrick / Abdel-Karim, Benjamin M. / Bucher, Andreas / Hügel, Christian / Rohde, Gernot / Kersting, Kristian (2021) "Insights from Explainable Interactive Machine Learning in the Age of COVID-19", efl Insights (1) 2021, 06-08.
+
+- Abdel-Karim, Benjamin M. / Pfeuffer, Nicolas / Hinz, Oliver (2021): "Machine Learning in Information Systems Research - A Bibliographic Review and Open Research Issues", Electronic Markets, 31, 643-670.
+
+- Abdel-Karim, Benjamin M. / Keller, Katharina / Franzmann, Daniel (2020): "The Rise of Information System Research: A Big Picture based on Social Network Analysis over Four Decades", European Conference on Information Systems (ECIS 2020), Marrakech, Morocco.
+
+- Wenzel, Mike / Chun, Felix K.-H. / Hinz, Oliver / Abdel-Karim, Benjamin M. (2020): "Potential of Automated Evaluation of Chest X-rays by Artificial Intelligence for Clinic and Practice", Der Pneumologe, 14 (1), 1-5.
+
+- Abdel-Karim, Benjamin M. / Pfeuffer, Nicolas / Rohde Gernot / Hinz, Oliver (2020): "How and what can Humans Learn from being in the Loop? Invoking Contradiction Learning as a Measure to Make Humans Smarter", German Journal on Artificial Intelligence, 34 (2), 199-207.
+
+- Keller, Katharina / Carl, Kim Valerie / Jöntgen, Hendrik / Abdel-Karim, Benjamin M. / Mühlhäuser, Max / Hinz, Oliver (2019): "K.I.T.T., where are you?" - Why Smart Assistance Systems in Cars enrich People's Lives", International Workshop on Ubiquitous Personal Assistance (UPA 2019 at UbiComp 2019) (Best Paper Award). doi.org/10.1145/3341162.3350844
+
+- Abdel-Karim, Benjamin M. (2020): "Beautiful Fractals as a Crystal Ball for Financial Markets? - Investment Decision Support System Based on Image Recognition Using Artificial Intelligence", The Journal of Prediction Markets: Accept.
+
