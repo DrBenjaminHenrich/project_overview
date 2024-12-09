@@ -14,6 +14,18 @@ Quick and hassle-free registration:
 
 ****
 
+- 2024 RetireDoc: This startup offered a simple, device-independent documentation solution with a modern design. It provided a standardized platform for storing and managing documents, ensuring state-of-the-art data encryption for security. The data servers were located in Germany, guaranteeing compliance with local regulations. The service ensured reliability through redundancy, making it a trustworthy option for users. With a paper-free approach, it supported sustainable documentation practices. Additionally, the platform was cost-effective compared to other providers on the market and utilized in-house AI for enhanced efficiency. Users could migrate their current documentation—whether paper-based or digital—quickly and at no cost. The tech stack was based on Python, PyTorch, Flask, SQL, Amazon AWS, and Docker. Further development of the project was canceled due to the need to comply with medical regulatory requirements.
+  
+- 2022 Tomorrow's AfterMe: The goal of Tomorrow's AfterMe was to provide digital cloud storage for important documents and memories to share post-mortem with family. Due to challenges with German regulations and privacy, the project’s minimal viable product (MVP) was no longer developed. The tech stack was built on Microsoft Azure cloud services.
+
+- 2022 - Tomorrow's Therapy: A platform that was meant to provide all services, similar to Booking.com, for booking medical appointments. This project was not sustainable due to high server costs. The tech stack included Python Flask, HTML, JavaScript, and other web technologies.
+
+- 2020 - 2021 ePitches: At an early-stage startup, the goal was to optimize the job application process using a video-based platform. Applicants were encouraged to use a pitch format to introduce themselves. The project utilized Amazon AWS, Python, Docker, and SQL but was ultimately discontinued due to a lack of demand.
+
+- 2020 Tech Hippo is a learning platform based on different services. The goal of this side hustle was to develop an Apple Store app. To achieve this, a client-server architecture was created to connect the app via API to the server and provide services through a user interface with an enhanced experience. Various technologies were used, including Apple Xcode, Python, and SQL. The application was sold.
+
+****
+
 ### Transcript of Records - Side Hustle
 
 ## Advancing Data Science and Coding: My Contributions Through Published Works
