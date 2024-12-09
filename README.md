@@ -50,8 +50,14 @@ In addition to teaching and mentoring, I actively contribute to shaping the futu
 ### Transcript of Records - Teaching Experience
 ![alt text](src/teaching.png "Teaching")
 
-Teaching Experience at Frankfurt School of Fiance
-- 2024: Elective in Advanced Analytics in Practice - How to Leverage Customer Data in Financial Institutions, for Prof. Dr. Jochen Schlapp,≈ 120 B.Sc. participants.
+[Teaching Experience at Frankfurt School of Fiance]()
+- 2024 - now: Elective in Advanced Analytics in Practice - How to Leverage Customer Data in Financial Institutions, for Prof. Dr. Jochen Schlapp,≈ 120 B.Sc. participants.
+
+[Tomorrow University](https://www.tomorrow.university)
+- 2021 - now: Challenge Machine Learning and Deep Learning This challenge has been developed to teach the handling and processing of satellite image data, empowering participants to leverage state-of-the-art technologies. The goal is to use these advanced tools to contribute to a sustainable world by enabling better decision-making and fostering innovative solutions to environmental and societal challenges.
+
+- 2021 - 2022:  Applied Data Science: enture into the depths of raw datasets, where you will uncover hidden truths through DataFrames, structured like ancient tomes. Explore the mystique of data types and learn to pre-process and cleanse the data, purging impurities and filling missing gaps. Delve into the shadows to cast away errors, transforming the data into a pure, meaningful form. In the final challenge, summon your skills to import, identify missing values, and handle data types, revealing the secrets of the dataset.
+
 
 [Teaching Experience at University of Applied Sciences Heilbronn](https://www.hs-heilbronn.de/en)
 - 2021 - 2022: Lecture in Business Data Analysis, for Prof. Dr. Carsten Lanquillon, ≈ 30 B.Sc. participants.
