@@ -38,7 +38,7 @@ In addition to teaching and mentoring, I actively contribute to shaping the futu
 ![alt text](src/teaching.png "Teaching")
 
 Teaching Experience at Frankfurt School of Fiance
-2024: Elective in Advanced Analytics in Practice - How to Leverage Customer Data in Financial Institutions, for Prof. Dr. Jochen Schlapp,  $\approx$ 120 B.Sc. participants.
+- 2024: Elective in Advanced Analytics in Practice - How to Leverage Customer Data in Financial Institutions, for Prof. Dr. Jochen Schlapp,  $\approx$ 120 B.Sc. participants.
 
 [Teaching Experience at University of Applied Sciences Heilbronn](https://www.hs-heilbronn.de/en)
 - 2021 - 2022: Lecture in Business Data Analysis, for Prof. Dr. Carsten Lanquillon, $\approx$ 30 B.Sc. participants.
